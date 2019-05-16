@@ -1,4 +1,7 @@
 # Public-Help-Desk-Portal
+
+Language and tools: Java, Eclipse, JSP, DB2
+
 Public Help Desk Portal is a web application through which one can register and then log in to create a complaint or view
 previous complaint if any.
 
