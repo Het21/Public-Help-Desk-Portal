@@ -4,4 +4,4 @@ previous complaint if any.
 Admin can view or access any complaint from any user.
 It is more efficient as it solely focuses on complaints and resolving them.
 
-Language and tools: Java, Eclipse, JSP, DB2
+Tools and Technologies: Java, Eclipse, JSP, DB2
